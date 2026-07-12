@@ -1,1 +1,26 @@
+# xFusionCorp Industries - Machine Learning Environment Setup
 
+## Day 1: Python Virtual Environment Setup
+
+### Project Overview
+
+This project documents the initial setup of a standardized Python development environment for the **xFusionCorp Industries Machine Learning Team**.
+
+The objective of this task is to create an isolated Python environment where machine learning models can be developed, tested, and deployed without affecting the system-wide Python installation.
+
+---
+
+# Environment Setup
+
+## 1. Navigate to Project Directory
+
+Move into the project workspace:
+
+```bash
+cd /root/code/
+
+/root/code/
+│
+├── ml-env/              # Python virtual environment
+│
+└── requirements.txt     # Project dependencies
