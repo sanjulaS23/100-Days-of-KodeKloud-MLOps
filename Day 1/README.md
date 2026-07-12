@@ -26,3 +26,16 @@ pip install numpy pandas scikit-learn matplotlib
 
 # Export requirements to file
 pip freeze > /root/code/requirements.txt
+
+```
+## Verification
+
+```bash
+# Verified the environment directory structure using 
+ls -l /root/code/.
+
+# Confirmed the installed packages by checking the requirements.txt file using 
+cat /root/code/requirements.txt.
+
+```
+This is Day 1 of my #100DaysOfCode challenge.
